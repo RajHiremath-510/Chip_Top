@@ -1,4 +1,3 @@
-````markdown
 # CHIP_TOP – RTL to Gate-Level Synthesis
 
 This repository demonstrates a complete **RTL to Gate-Level Synthesis** flow using
@@ -12,6 +11,7 @@ industry-style synthesis script is written and executed.
 ## 🎯 Project Objective
 
 Convert RTL (Verilog) into a **gate-level netlist** while meeting:
+
 - Timing constraints
 - Area optimization
 - Power optimization
@@ -20,7 +20,7 @@ Convert RTL (Verilog) into a **gate-level netlist** while meeting:
 
 ## 🛠️ Tool Used
 
-Synopsys Design Compiler
+- **Synopsys Design Compiler**
 
 ---
 
@@ -43,13 +43,11 @@ cd chip_top/synth
 csh
 source /home/tools/synopsys/cshrc_synopsys
 dc_shell -output_log_file ./outputs/synthesis.log
-````
-
 Inside Design Compiler:
 
-```tcl
+tcl
+Copy code
 source scripts/run_synthesis.tcl
-```
 
 ---
 
