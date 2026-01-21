@@ -71,8 +71,6 @@ Detailed project documentation (report / flow explanation) is available here:
 **Rajshekhar S Hiremath**  
 ASIC / VLSI Synthesis & Physical Design Enthusiast
 
-- 🌐 Portfolio: [https://rajhiremath-portfolio.lovable.app](https://rajhiremath-portfolio.lovable.app)
-- 💼 LinkedIn: [https://www.linkedin.com/in/raj-hiremath-88a707298](https://www.linkedin.com/in/raj-hiremath-88a707298)
+- 🌐 Portfolio: [rajhiremath-portfolio.lovable.app](https://rajhiremath-portfolio.lovable.app)
+- 💼 LinkedIn: [linkedin.com/in/raj-hiremath-88a707298](https://www.linkedin.com/in/raj-hiremath-88a707298)
 - 📧 Email: [raj.hiremath2004@gmail.com](mailto:raj.hiremath2004@gmail.com)
-
-
