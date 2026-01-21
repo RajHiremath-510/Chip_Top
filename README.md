@@ -8,7 +8,7 @@ shows how an industry-style synthesis script is written and executed.
 
 ---
 
-## 📌 Project Objective
+##  Project Objective
 Convert RTL (Verilog) into a **gate-level netlist** while meeting:
 - Timing constraints
 - Area optimization
@@ -16,7 +16,7 @@ Convert RTL (Verilog) into a **gate-level netlist** while meeting:
 
 ---
 
-## 🛠 Tool Used
+##  Tool Used
 - **Synopsys Design Compiler**
 
 ---
@@ -24,7 +24,7 @@ Convert RTL (Verilog) into a **gate-level netlist** while meeting:
 
 ---
 
-## 🔄 Synthesis Flow
+##  Synthesis Flow
 1. Environment setup
 2. RTL analysis and elaboration
 3. Library linking (HVT / LVT / RVT)
@@ -35,7 +35,7 @@ Convert RTL (Verilog) into a **gate-level netlist** while meeting:
 
 ---
 
-## ▶️ How to Run the Synthesis
+##  How to Run the Synthesis
 ```bash
 cd chip_top/synth
 csh
@@ -46,7 +46,7 @@ Inside Design Compiler:
 
 source scripts/run_synthesis.tcl
 
-📊 Outputs Generated
+## Outputs Generated
 
 Gate-level Verilog netlist
 
@@ -56,7 +56,7 @@ Area report
 
 Power report
 
-🎯 Intended Audience
+## Intended Audience
 
 VLSI Freshers
 
@@ -66,7 +66,19 @@ Interview preparation for RTL → Netlist flow
 
 ---
 
-## 📂 Project Documentation
+##  Project Documentation
 Detailed project documentation (report / flow explanation) is available here:  
 https://drive.google.com/file/d/1wkCxk2GyQNiErFEtTfVhNjUc_QZ-NkMK/view?usp=sharing
+
+---
+
+##  Author & Contact
+
+**Rajshekhar S Hiremath**  
+ASIC / VLSI Synthesis & Physical Design Enthusiast
+
+- Portfolio: https://rajhiremath-portfolio.lovable.app/
+- LinkedIn: https://www.linkedin.com/in/raj-hiremath-88a707298
+- Email: raj.hiremath2004@gmail.com
+
 
